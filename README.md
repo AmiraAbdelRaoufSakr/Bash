@@ -1,15 +1,16 @@
 # Bash
 
-##Apache webserver administartion
+## Apache webserver administartion
 
-##shell script that manages apache web server
+# Language used:
+Shell script that manages apache web server
 
-##features
-#1-Install/uninstall webserver
-#2-Add/Delete vistualhost
-#3-Enable/Disable virtualhost
-#4-List all virtualhosts
-#5-Enable/Disable authentication for certain virtualhost
+# Features
+1-Install/uninstall webserver
+2-Add/Delete vistualhost
+3-Enable/Disable virtualhost
+4-List all virtualhosts
+5-Enable/Disable authentication for certain virtualhost
 
-##To run use this command:
-#./server.sh
+# To run use this command:
+./server.sh
