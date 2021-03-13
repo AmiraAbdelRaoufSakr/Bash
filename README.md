@@ -2,7 +2,7 @@
 
 ## Apache webserver administartion
 
-# Language used:
+## Language used:
 Shell script that manages apache web server
 
 ## Features
@@ -17,5 +17,5 @@ Shell script that manages apache web server
  
  -Enable/Disable authentication for certain virtualhost.
 
-# To run use this command:
+## To run use this command:
 ./server.sh
